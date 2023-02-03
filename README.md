@@ -1,11 +1,15 @@
-# starter-express-api
+made news letter module with node.js
+and uploaded to cyclic and render
 
-This is the simplest possible nodejs api using express that responds to any request with: 
-```
+uses mailchimp.com's api
+
 Yo!
 ```
 
-### Deploy it in 7 seconds: 
+render:
 
-[![Deploy to Cyclic](https://deploy.cyclic.app/button.svg)](https://deploy.cyclic.app/)
+https://news-letter-ken.onrender.com/
 
+cyclic:
+
+https://teal-enchanting-sturgeon.cyclic.app/
